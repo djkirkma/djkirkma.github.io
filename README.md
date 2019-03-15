@@ -1,5 +1,5 @@
 # Doug Kirkman's Personal Website (Github Pages)
-[View Website](djkirkma.github.io)
+[View Website](http://.djkirkma.github.io)
 
 ## Languages used:
 * HTML
